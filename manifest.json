@@ -6,7 +6,8 @@
   "mods": [
     {
       "file": "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
-      "premium": false
+      "premium": false,
+      "sha256": "FE375DC91DC9D10071090B989F7296DBDDC968FEB7BB24CF3B92EF2AED217D93"
     }
   ]
 }
