@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "minecraft": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "0.19.3",
+  "mods": [
+    {
+      "file": "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
+      "premium": false
+    }
+  ]
+}
