@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraft": "1.21.1",
   "loader": "fabric",
   "loaderVersion": "0.19.3",
@@ -8,6 +8,11 @@
       "file": "mods/Almanac-1.21.1-2-fabric-1.5.2.jar",
       "premium": false,
       "sha256": "FE375DC91DC9D10071090B989F7296DBDDC968FEB7BB24CF3B92EF2AED217D93"
+    },
+    {
+      "file": "mods/naturalist_biomes-fabric-1.21.1-1.0.1.jar",
+      "premium": false,
+      "sha256": "1A8FF6E038E4E533A4003EB647D660C5A5E31C54D9146336B0DF1A792614AC6E"
     }
   ]
 }
