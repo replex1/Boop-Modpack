@@ -1,0 +1,1 @@
+mods/decocraft-3.0.8-1.21.1-fabric.jar filter=lfs diff=lfs merge=lfs -text
