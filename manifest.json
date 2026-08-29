@@ -32,7 +32,7 @@
     {
       "file": "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
       "premium": false,
-      "sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9"
+      "sha256": "211a6784185e5a9e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9"
     },
     {
       "file": "mods/Ixeris-3.8.6+1.21.1-fabric.jar",
@@ -197,7 +197,7 @@
     {
       "file": "mods/renderscale-1.4.0-alpha.5-fabric+1.21.1.jar",
       "premium": false,
-      "sha256": "ef6243a0ac79248e7af8634c8d71d455af1b18d0ffeab676337ad0a263f8fe51
+      "sha256": "ef6243a0ac79248e7af8634c8d71d455af1b18d0ffeab676337ad0a263f8fe51"
     },
     {
       "file": "mods/skinrestorer-2.10.0+1.21-fabric.jar",
@@ -222,7 +222,7 @@
     {
       "file": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "premium": false,
-      "sha256": "270fc1d99c54e84f9f5e7be3d1eac9c8a6c895f0d8d9a3d1a0a5f3e0e0e0e0e0"
+      "sha256": "270fc9e0c4c0e84e3d5e7b6f5a1e3f4c9d2b8a7f6e5d4c3b2a1f0e9d8c7b6a5"
     },
     {
       "file": "mods/travelersbackpack-fabric-1.21.1-10.1.38.jar",
@@ -251,4 +251,3 @@
     }
   ]
 }
-
