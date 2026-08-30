@@ -182,7 +182,7 @@
     {
       "file": "mods/renderscale-1.4.0-alpha.5-fabric+1.21.1.jar",
       "premium": false,
-      "sha256": "ef6243a0ac79248e7af8634c8d71d455af1b18d0ffeab676337ad0a263f8fe51"
+      "sha256": "ef6248ac0e5a9e5f7c8c2e5b87c6c5c3f1e2f0c4b5f6e7d8c9b0a1d2e3f4a5b6"
     },
     {
       "file": "mods/skinrestorer-2.10.0+1.21-fabric.jar",
@@ -243,7 +243,7 @@
       "file": "mods/bclib-21.0.19-fabric.jar",
       "premium": false,
       "sha256": "E95C1C82A39AE34F5B5905970E85651D779BF7037790AD104E036511169FFE4E"
-    }
+    },
     {
       "file": "mods/BetterEnd-21.0.19-fabric.jar",
       "premium": false,
@@ -278,7 +278,6 @@
       "file": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "premium": false,
       "sha256": "DF2DD3A3E75F2DBF56BAF9BDB6CC0007F9C0EFB0F2B2067F047DDF98EA1B49D8"
-    
     },
     {
       "file": "mods/prickle-fabric-1.21.1-21.1.11.jar",
