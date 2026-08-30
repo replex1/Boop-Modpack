@@ -240,6 +240,11 @@
       "sha256": "510737FC77DF081217F3BC712701DE35FDD4AA3180D466E8E2137BB557A84757"
     },
     {
+      "file": "mods/bclib-21.0.19-fabric.jar",
+      "premium": false,
+      "sha256": "E95C1C82A39AE34F5B5905970E85651D779BF7037790AD104E036511169FFE4E"
+    }
+    {
       "file": "mods/BetterEnd-21.0.19-fabric.jar",
       "premium": false,
       "sha256": "F34C2AF63532CCC26A617C382002F24D3322DFD0D652F078437BBFEA4C222101"
@@ -273,6 +278,7 @@
       "file": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "premium": false,
       "sha256": "DF2DD3A3E75F2DBF56BAF9BDB6CC0007F9C0EFB0F2B2067F047DDF98EA1B49D8"
+    
     },
     {
       "file": "mods/prickle-fabric-1.21.1-21.1.11.jar",
