@@ -10,11 +10,6 @@
       "sha256": "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93"
     },
     {
-      "file": "mods/BOMD-1.10.2-1.21.1.jar",
-      "premium": false,
-      "sha256": "0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97"
-    },
-    {
       "file": "mods/FallingTree-1.21.1-1.21.1.11.jar",
       "premium": false,
       "sha256": "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
@@ -50,16 +45,6 @@
       "sha256": "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387"
     },
     {
-      "file": "mods/YungsApi-1.21.1-Fabric-5.1.6.jar",
-      "premium": false,
-      "sha256": "36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba"
-    },
-    {
-      "file": "mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
-      "premium": false,
-      "sha256": "9a398731319f53458abedf6295d63dc140c82d81cfa89e088526b0821375af59"
-    },
-    {
       "file": "mods/architectury-13.0.6-fabric.jar",
       "premium": false,
       "sha256": "e2b7daa654b5016633cef40e1244421522898825855372fb2df8785b17441ce8"
@@ -67,7 +52,7 @@
     {
       "file": "mods/cardinal-components-api-6.1.3.jar",
       "premium": false,
-      "sha256": "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2"
+      "sha256": "302a8bc4c2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2"
     },
     {
       "file": "mods/cloth-config-15.0.140-fabric.jar",
@@ -160,7 +145,7 @@
       "sha256": "b3397fcefbdd958f8ff5405dceb0de5d3a95254ec19a5f606498fcc6a86331a9"
     },
     {
-      "file": "moreculling-fabric-1.21.1-1.0.6.jar",
+      "file": "mods/moreculling-fabric-1.21.1-1.0.6.jar",
       "premium": false,
       "sha256": "b7cf4b2d005682b2e1999c0a6fae868b1ddf941aa08efb0ef79baa71acf8bb3a"
     },
@@ -248,6 +233,61 @@
       "file": "mods/xaeroworldmap-fabric-1.21.1-1.44.2.jar",
       "premium": false,
       "sha256": "cd6109af335ad83af9e97cdae5c25023112349e2dc4df95a97640022f38b3856"
+    },
+    {
+      "file": "mods/BetterNether-21.0.19-fabric.jar",
+      "premium": false,
+      "sha256": "510737FC77DF081217F3BC712701DE35FDD4AA3180D466E8E2137BB557A84757"
+    },
+    {
+      "file": "mods/BetterEnd-21.0.19-fabric.jar",
+      "premium": false,
+      "sha256": "F34C2AF63532CCC26A617C382002F24D3322DFD0D652F078437BBFEA4C222101"
+    },
+    {
+      "file": "mods/worldweaver-21.0.19-fabric.jar",
+      "premium": false,
+      "sha256": "90F8A2BBBD441EF4DC7A591777A64A4E2AA476D67DEDB90ADDE23A59943700BB"
+    },
+    {
+      "file": "mods/wunderlib-21.0.9-fabric.jar",
+      "premium": false,
+      "sha256": "1ABD12D5234E1CA6225927F1E76CB59F90047CD2D68D9957868B27BA7B380C69"
+    },
+    {
+      "file": "mods/enderitemod-fabric-1.6.2-1.21.1.jar",
+      "premium": false,
+      "sha256": "05F377E39148C635B07BDDA7E3BB4193F3A6E448E6DB60468ADEB36ADCCE77A2"
+    },
+    {
+      "file": "mods/eldritch-mobs-1.16.4.jar",
+      "premium": false,
+      "sha256": "29B0FBDE67097BE4AAE21215C429DC160060C05F203F3EE704946179780A938F"
+    },
+    {
+      "file": "mods/attributefix-fabric-1.21.1-21.1.3.jar",
+      "premium": false,
+      "sha256": "EB7A22DA2EB35370C41545B8BFA3C562CF161647254D2E1527B8305CCF67BF07"
+    },
+    {
+      "file": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
+      "premium": false,
+      "sha256": "DF2DD3A3E75F2DBF56BAF9BDB6CC0007F9C0EFB0F2B2067F047DDF98EA1B49D8"
+    },
+    {
+      "file": "mods/prickle-fabric-1.21.1-21.1.11.jar",
+      "premium": false,
+      "sha256": "D6D639078AECB72770F287D8253E4634114E2536AC9A2AD6EC5F442EB27DD07F"
+    },
+    {
+      "file": "mods/ranged_weapon_api-fabric-3.0.0+1.21.1.jar",
+      "premium": false,
+      "sha256": "B3C3FF65DCAF0D36B02DC6C8935A58F437F47B2DF3D3D888E9A453568C78B01A"
+    },
+    {
+      "file": "mods/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
+      "premium": false,
+      "sha256": "61EEC7C218541B183BDCB95EE8FE76EA8404F6162E1AEA4C59D4213BCF0D4CC2"
     }
   ]
 }
