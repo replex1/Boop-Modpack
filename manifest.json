@@ -293,6 +293,16 @@
       "file": "mods/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
       "premium": false,
       "sha256": "61EEC7C218541B183BDCB95EE8FE76EA8404F6162E1AEA4C59D4213BCF0D4CC2"
+    },
+    {
+     "file": "mods/mca-fabric-7.7.36-beta.3+1.21.1.jar",
+     "premium": false,
+     "sha256": "F4940ADA2C4B24109C6D1464132CBE250F6A89DE59E37A11B9A3852FB0758102"
+    },
+    {
+     "file": "mods/carryon-fabric-1.21.1-2.2.6.13.jar",
+     "premium": false,
+     "sha256": "76B57C1B25A0F3727FA7C3D6688F12C5FBDCA346F2F3C7EC5D3D82575E43CA18"
     }
   ]
 }
